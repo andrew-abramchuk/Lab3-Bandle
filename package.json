@@ -1,0 +1,26 @@
+{
+  "name": "andrewabr",
+  "version": "2.0.0",
+  "description": "bbjjo",
+  "main": "lab3",
+  "scripts": {
+    "test": "pusk",
+    "build": "browserify index.js -o bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ioij"
+  },
+  "keywords": [
+    "keys"
+  ],
+  "author": "abr",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "browserify": "^13.1.1",
+    "lodash": "^4.16.6"
+  },
+  "dependencies": {
+    "lodash": "^4.16.6"
+  }
+}
